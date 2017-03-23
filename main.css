@@ -52,7 +52,7 @@ div {
 .main {
   position: relative;
   width: 700px;
-  margin: 50px auto;
+  margin: -3px auto;
 }
 /* line 29, main.less */
 .me {
